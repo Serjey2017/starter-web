@@ -12,3 +12,6 @@ State2
 This is simple web project
 ## How to contribute
 bla-bla-bla
+
+### Copyright
+everyone must be fair
