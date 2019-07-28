@@ -11,7 +11,7 @@ State2
 ## Deployment
 This is simple web project
 ## How to contribute
-bla-bla-bla
+Please fork this repo and then pull request for rewiev
 
 ### Copyright
 everyone must be fair
