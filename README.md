@@ -14,4 +14,4 @@ This is simple web project
 Please fork this repo and then pull request for rewiev
 
 ### Copyright
-everyone must be fair
+everyone must be fair. all rights reserved
